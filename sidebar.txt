@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sld:home|Door43 (sld)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sld|d43-sld repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sld/archive/master.zip|d43-sld.zip]]
+
+**Recent Changes**
+{{changes>ns = sld}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sld|Ethnologue data]]
+
